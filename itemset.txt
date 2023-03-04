@@ -1,0 +1,5 @@
+1 item1, item2, elma, armut
+2 item2, item3
+3 item1, item3
+4 item1, item2, item3, elma, armut
+5 item1, item2, elma, armut
